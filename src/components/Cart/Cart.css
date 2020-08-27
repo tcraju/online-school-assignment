@@ -1,0 +1,11 @@
+.cart-area {
+    color: white;
+}
+
+.table td {
+    border:none;
+}
+
+.top-border{
+    border-top:1px solid lightgray;
+}

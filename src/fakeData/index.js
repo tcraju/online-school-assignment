@@ -20,7 +20,7 @@ const fakeData =
 
   {
     "id": 3,
-    "name": "iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp",
+    "name": "The Complete iOS App Development Bootcamp",
     "mentor": "Dr. Angela Yu",
     "rating": "4.8",
     "price": "10.99",
@@ -29,7 +29,7 @@ const fakeData =
 
   {
     "id": 4,
-    "name": "Advanced CSS and Sass: Flexbox, Grid, Animations and More",
+    "name": "Advanced Flexbox, Grid, Animations and More",
     "mentor": "Chris Croft",
     "rating": "4.5",
     "price": "9.99",
@@ -56,7 +56,7 @@ const fakeData =
 
   {
     "id": 7,
-    "name": "Tableau 2020 A-Z: Hands-On Tableau Training for Data Science",
+    "name": "Hands-On Tableau Training for Data Science",
     "mentor": "Lara Croft",
     "rating": "4.5",
     "price": "19.99",
@@ -74,7 +74,7 @@ const fakeData =
 
   {
     "id": 9,
-    "name": "SQL - MySQL for Data Analytics and Business Intelligence",
+    "name": "SQL - MySQL for  Business Intelligence",
     "mentor": "Nayok Joshim",
     "rating": "4.9",
     "price": "29.99",
@@ -111,7 +111,7 @@ const fakeData =
 
   {
     "id": 13,
-    "name": "How To Become a Bestselling Author on Amazon Kindle",
+    "name": "Becoming a Bestselling Author on Amazon Kindle",
     "mentor": "Mahfuzur Rahman",
     "rating": "4.9",
     "price": "5.99",
@@ -120,7 +120,7 @@ const fakeData =
 
   {
     "id": 14,
-    "name": "Beginning Project Management: Project Management Level One",
+    "name": " Project Management Level One",
     "mentor": "Nasir Hossain",
     "rating": "4.5",
     "price": "8.99",
@@ -129,7 +129,7 @@ const fakeData =
 
   {
     "id": 15,
-    "name": "Make Money Selling Low Content Books On Amazon, No Writing",
+    "name": "Selling Low Content Books On Amazon",
     "mentor": "Chris Croft",
     "rating": "4.5",
     "price": "9.99",

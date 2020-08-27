@@ -3,7 +3,20 @@
 }
 
 .single-course {
-    border: 1px solid lightgray;
+    border: 1px solid white;
     padding: 15px;
     min-height:  350px;
+    position: relative;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    max-width: 265px;
+    box-shadow: 0 0 25px #E5E5E5;
+}
+.single-course:hover{
+    border: 1px solid lightgray;
+}
+.enroll-btn{
+
+    position: absolute;
+    bottom: 15px;
 }
